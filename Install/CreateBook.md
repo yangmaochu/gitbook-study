@@ -25,7 +25,16 @@
 1. clone在GitHub上的仓库,然后用自己喜欢的工具进行编辑,当推送新增内容到GitHub上时,GitHub会自动同步到GitBook.
 2. 下载[GitBook Editor](https://www.gitbook.com/editor),用GitHub账号登陆后,可以直接编辑,编辑内容自动会同步到GitHub仓库.
 
+## 新建第二本书籍(git-study)
 
+1. 在GitHub中新建一个仓库.
+2. 在[GitBook](https://www.gitbook.com/new)中新建一本同名的书,如下图:
+![](img/CreateGitBook.png)
+3. 进入GitBook新增书籍的Settings页面:
+![](img/BookSetting.png)
+在Settings-GutHub中点击Select a Repository选择GitHub中新增仓库,如下图:
+![](img/BookSettingGitHub.png)
+最后点击同步按钮完成新建工作
 
-
+>注意:如果在第3步中提示无法自动同步,可以选择强制同步GitBook内容至GitHub.
 
