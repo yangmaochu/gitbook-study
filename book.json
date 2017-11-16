@@ -15,11 +15,13 @@
         "-lunr",
         "-search",
         "search-plus",
+        "expandable-chapters",
 	"splitter"
     ],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
-        }
+        },
+	"expandable-chapters":{}
     }
 }
