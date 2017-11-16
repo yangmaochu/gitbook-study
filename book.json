@@ -10,5 +10,10 @@
         "sidebar": {
             "作者主页": "https://github.com/yangmaochu"
         }
-    }
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-plus"
+    ]
 }
