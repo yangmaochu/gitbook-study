@@ -1,0 +1,9 @@
+{
+    "title": "GitBook 学习笔记",
+    "description": "个人在学习和使用 GitBook 过程中整理的新的和使用方法",
+    "author": "杨茂初",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": "."
+}
