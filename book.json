@@ -5,5 +5,10 @@
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
-    "root": "."
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "作者主页": "https://github.com/yangmaochu"
+        }
+    }
 }
