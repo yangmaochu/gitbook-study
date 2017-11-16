@@ -15,5 +15,10 @@
         "-lunr",
         "-search",
         "search-plus"
-    ]
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+    }
 }
