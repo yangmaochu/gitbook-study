@@ -28,13 +28,6 @@
 ## 新建第二本书籍(git-study)
 
 1. 在GitHub中新建一个仓库.
-2. 在[GitBook](https://www.gitbook.com/new)中新建一本同名的书,如下图:
+2. 在[GitBook](https://www.gitbook.com/new)中新建一本同名的书,新建类型选择为"GITHUB"如下图:
 ![](img/CreateGitBook.png)
-3. 进入GitBook新增书籍的Settings页面:
-![](img/BookSetting.png)
-在Settings-GutHub中点击Select a Repository选择GitHub中新增仓库,如下图:
-![](img/BookSettingGitHub.png)
-最后点击同步按钮完成新建工作
-
->注意:如果在第3步中提示无法自动同步,可以选择强制同步GitBook内容至GitHub.
 
